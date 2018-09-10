@@ -19,3 +19,7 @@ Remotely connect to your Wordpress blog with XML-RPC and Python
 	<em>If you are unable to import xmlrpclib, you can download it from below link and import it.</em><br>
 	<a href="https://github.com/python/cpython/blob/2.7/Lib/xmlrpclib.py">Python xmlrpclib</a>
 </p>
+<p>
+	The complete documentation for Wordpress API used in this script is available at below link.
+	https://codex.wordpress.org/XML-RPC_MetaWeblog_API
+</p>
