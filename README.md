@@ -5,7 +5,7 @@ Remotely connect to your Wordpress blog with XML-RPC and Python
 	XML-RPC is one of the good features provided by Wordpress to take control of your blog remotely. Usually, XML-RPC is enabled by default in Wordpress. Wordpress XML-RPC is considered a good option when you need to remotely control your blog, but it has some security concerns.<br>
 	For Example, XML-RPC can be used to brute-force login to your Wordpress blog.<br>
 	The security concerns can be handled by using <b>Manage XML-RPC</b> Plugin. Check the below link to see how to setup a secure XML-RPC on your Wordpress installation before posting remotely.<br>
-	<a href="">Remotely Post to Wordpress with XML-RPC</a>
+	<a href="https://www.anirudhsethi.in/blog/tech/remotely-connect-to-wordpress-with-xmlrpc/">Remotely Post to Wordpress with XML-RPC</a>
 </p>
 <p>
 	Once XML-RPC is setup on your Wordpress installation, you can remotely perform the below operations:<br>
